@@ -1,2 +1,2 @@
-# calcuatorl
+# calculatorl
 calculator
